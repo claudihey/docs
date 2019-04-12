@@ -120,7 +120,9 @@ REX_ARTICLE[field="art_titleimage"]
 <a name="kategorien"></a>
 ### Kategorien
 
-Kategorie-Metadaten werden von den Redakteuren in der Strukturverwaltung gepflegt.  Sie können per PHP mit folgenden Befehlen wie folgt ausgelesen werden: 
+Kategorie-Metadaten werden von den Redakteuren in der Strukturverwaltung gepflegt.  
+Beim Editieren einer Kategorie verbergen sich die Metadaten hinter dem '+' Button.
+Sie können per PHP mit folgenden Befehlen wie folgt ausgelesen werden: 
 
 
 ```PHP
